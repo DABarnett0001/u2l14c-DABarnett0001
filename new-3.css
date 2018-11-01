@@ -1,0 +1,38 @@
+body {
+  background: blue;
+  text-align: center;
+}
+p {
+  color: yellow;
+}
+h1 {
+  font-weight: bold;
+  color: rgb(255,150,0);
+  text-align: center;
+  font-family: fantasy;
+}
+
+p {
+  color: aqua;
+  background-color: brown;
+  text-decoration: underline;
+  font-family: fantasy;
+  font-size: 20px;
+  text-align: center
+}
+li {
+  color: coral;
+  background-color: red;
+  text-align: center;
+}
+
+  img {
+   
+   border-style: double;
+    margin: 10px;
+    border-color: saddlebrown;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 10px;
+    float:none;
+  
